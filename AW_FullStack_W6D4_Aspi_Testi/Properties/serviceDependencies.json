@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:AW_FullStack_W6D4_Aspi_TestiContext"
+    }
+  }
+}

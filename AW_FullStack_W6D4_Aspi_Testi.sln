@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AW_FullStack_W6D4_Aspi_Testi", "AW_FullStack_W6D4_Aspi_Testi\AW_FullStack_W6D4_Aspi_Testi.csproj", "{4F5D9FC3-DE8B-4327-B474-BD0C01F6CCDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5D9FC3-DE8B-4327-B474-BD0C01F6CCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5D9FC3-DE8B-4327-B474-BD0C01F6CCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5D9FC3-DE8B-4327-B474-BD0C01F6CCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5D9FC3-DE8B-4327-B474-BD0C01F6CCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EAC9EEA-D2D2-41B0-B3C8-4E03CA39713D}
+	EndGlobalSection
+EndGlobal
